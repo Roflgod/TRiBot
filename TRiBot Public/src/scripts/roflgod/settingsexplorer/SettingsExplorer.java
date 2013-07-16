@@ -14,7 +14,7 @@ import org.tribot.script.interfaces.Ending;
 /**
  * @author Roflgod
  */
-@ScriptManifest(version = 1, name = "Settings Explorer", authors = "Roflgod", category = "Utility")
+@ScriptManifest(version = 1, name = "Settings Explorer", authors = "Roflgod", category = "Tools")
 public class SettingsExplorer extends Script implements Ending {
 	private static List<Setting> settingsList;
 
