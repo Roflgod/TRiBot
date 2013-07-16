@@ -21,8 +21,6 @@ import javax.swing.table.TableColumn;
 import javax.swing.text.PlainDocument;
 
 import net.miginfocom.swing.MigLayout;
-import scripts.roflgod.ui.CustomDocumentFilter;
-import scripts.roflgod.ui.DefaultTextTextField;
 
 /**
  * @author Roflgod

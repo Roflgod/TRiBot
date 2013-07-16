@@ -1,4 +1,4 @@
-package scripts.roflgod.ui;
+package scripts.roflgod.settingsexplorer;
 
 import java.util.ArrayList;
 import java.util.Collections;

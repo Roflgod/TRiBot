@@ -1,6 +1,5 @@
 package scripts.roflgod.settingsexplorer;
 
-import scripts.roflgod.ui.SortableListModel;
 
 /**
  * @author Roflgod
